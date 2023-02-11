@@ -2,15 +2,13 @@
 Employee SQL challenge 
 Purpose: to desgin and import the csv files into SQL database and then do the analysis (3 parts list below) <br>
 
-<strong>Data Modeling<strong>
+Data Modeling
 
 Sketch an entity relationshiping diagram of the tables using QuickDBD. <br>
-
 
 Data Engineering 
 
 Create data schema for each csv files including specify the data types, primary keys, foreign keys, and constrainsts. <br>
-
 
 Data Analysis
 
